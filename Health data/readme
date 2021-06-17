@@ -1,0 +1,2 @@
+The goal is to predict whether a breast cancer tumor is benign or malignant. 
+The 'sample code' column in the dataset gives information of the patient and other medical features are used. The prediction is done using XGBoost.
